@@ -37,3 +37,5 @@ const MovieCard = ({
     </div>
   );
 };
+
+export default MovieCard;
